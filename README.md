@@ -1,2 +1,2 @@
 # Key Bob
-A mini slot car race track.
+Tamagotchi Inspired PCB with multiple personalities and linking.
