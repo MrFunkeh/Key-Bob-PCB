@@ -22,7 +22,7 @@
 | [SPST switch](https://tinyurl.com/mwpac9wk) | turn the board on and off | 2 | $1.00 | $2.00 | [Aliexpress](https://tinyurl.com/mwpac9wk) |
 | [Resistor 330ohm (100pcs pack)](https://tinyurl.com/5t5737zy) | limit current to LED | 2 | $0.90 | $1.80 | [Aliexpress](https://tinyurl.com/5t5737zy) |
 | **Parts subtotal** | — | — | — | **$39.20** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$39.20** | — |
+| **Tax & shipping** | — | — | — | **$58.90** | — |
+| **Total** | — | — | — | **$98.10** | — |
 
-$25.80 left of the tier's funding.
+**$33.10 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
