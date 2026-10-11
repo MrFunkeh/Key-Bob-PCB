@@ -1,6 +1,16 @@
-This is a guid on how to build your own Key Bob
+__This is a guid on how to build your own Key Bob__
 
+__TOOLS/ Materials Needed__
+-------------------
+1) Soldering iron
+2) solder
+3) flux
+4) Small length of wire (~1ft)
+5) cutter/ wire stripper
 
+   if you __don't__ have any of these please borrow or buy them from a supplier like AliExpress or Amazon.
+
+-------------------------------------------------------------------------------------------------------------
 
 #1) Purchase Parts
 -----------------------
