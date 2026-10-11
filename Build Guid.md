@@ -60,6 +60,7 @@ Link to Kicad(free): https://www.kicad.org/
 9) Open the main code file.
 10) Write your MAC address in the labled code once, somewhere near the top.
 11) flash the code to your ESP32.
+
     video on how to flash, __skip to 2:50__ : https://www.youtube.com/watch?v=V9I9koQ0AeA&t=230s
 
   If you're curious how the ESP now function works: https://www.youtube.com/watch?v=qxwXwNS3Avw
