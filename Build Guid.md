@@ -54,11 +54,13 @@ Link to Kicad(free): https://www.kicad.org/
 3) Download the code from Code.zip file.
 4) Extract the file by right clicking the file.
 5) Import the Get MAC Address code first to obtain the MAC address of your ESP32.
-6) Make sure you have these libraries installed: Adafruit BusIO, Adafruit GFX Library, Adafruit SSD 1306
+6) Make sure you have these libraries installed: Adafruit BusIO, Adafruit GFX Library, Adafruit SSD 1306.
 7) Flash the code to your ESP32, make sure it's plugged in and the right serial port is selected.
 8) Write down the MAC address somewhere, you need it for the main code.
-9) Open the main code and file where it says input MAC address, somewhere near the top.
-10) flash the code to your ESP32
+9) Open the main code file.
+10) Write your MAC address in the labled code once, somewhere near the top.
+11) flash the code to your ESP32.
+    video on how to flash, __skip to 2:50__ : https://www.youtube.com/watch?v=V9I9koQ0AeA&t=230s
 
   If you're curious how the ESP now function works: https://www.youtube.com/watch?v=qxwXwNS3Avw
      
