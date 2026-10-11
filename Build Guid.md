@@ -65,7 +65,7 @@ Link to Kicad(free): https://www.kicad.org/
 
   If you're curious how the ESP now function works: https://www.youtube.com/watch?v=qxwXwNS3Avw
      
-  If you want a more in depth how to code with ESP now: https://www.youtube.com/watch?v=bEKjCDDUPaU&t=1354s
+  If you want a more in depth how to code with ESP now function: https://www.youtube.com/watch?v=bEKjCDDUPaU&t=1354s
   
 -------------------------------------------------------------------------------------------------------------
 
