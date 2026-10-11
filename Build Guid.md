@@ -1,6 +1,6 @@
 __This is a guid on how to build your own Key Bob__
 Estimated build time: 3-5 hours
-Estimated shipping time: 2-4 weeks
+Estimated shipping time: 1-3 weeks
 
 __TOOLS/ Materials Needed__
 -------------------
@@ -72,10 +72,20 @@ Link to Kicad(free): https://www.kicad.org/
   #5) Solder
   ------------------
   1) Overview the provided schematic above.
-  2) __If__ you're using flux, apply a very very thin layer on the parts to allow the solder to flow better.
-  3) Make sure when placing the ESP32 you have the USB-C face where the silkscreen on the board shows USB-C in a box.
-  4) Double check polarity of components before soldering all the pins. (only the resistor has no polarity)
-  5) Put the LED in the specified location on the schematic, and put the short leg (negative/ cathode) in the square hole.
-  6) To solder on the ESP32 you can have someone hold it, or pre-tin one pad then apply heat while positioning it.
+  2) __DO NOT__ short the battery wires as this will cause possible damage to the battery.
+     When cutting the wires for the battery make sure to do one at a time, not posative and negative as it will short circuit.
+  4) __If__ you're using flux, apply a very very thin layer on the parts to allow the solder to flow better.
+  5) Make sure when placing the ESP32 you have the USB-C face where the silkscreen on the board shows USB-C in a box.
+  6) Double check polarity of components before soldering all the pins. (only the resistor has no polarity)
+  7) Put the LED in the specified location on the schematic, and put the short leg (negative/ cathode) in the square hole.
+  8) To solder on the ESP32 you can have someone hold it, or pre-tin one pad then apply heat while positioning it.
 
      __If you don't know how to solder,__ watch this: https://www.youtube.com/watch?v=Qps9woUGkvI
+
+-------------------------------------------------------------------------------------------------------------
+
+#6) Micro SD Card
+-------------------
+1) Format the Micro SD card to FAT32 on your laptop or PC.
+
+   if you don't know how, watch this video: https://www.youtube.com/watch?v=MYjFO_QGdrY
