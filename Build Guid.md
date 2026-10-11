@@ -74,6 +74,6 @@ Link to Kicad(free): https://www.kicad.org/
   1) Overview the provided schematic above.
   2) Make sure when placing the ESP32 you have the USB-C face where the silkscreen on the board shows USB-C in a box.
   3) Double check polarity of components before soldering all the pins. (only the resistor has no polarity)
-  4) The long leg of the LED is the annode/ positive leg
-  5) To solder on the ESP32 you can have someone hold it, or pre-tin one pad then apply heat while positioning it.
+  5) Put the LED in the specified location on the schematic, and put the short leg (negative/ cathode) in the square hole.
+  6) To solder on the ESP32 you can have someone hold it, or pre-tin one pad then apply heat while positioning it.
      
