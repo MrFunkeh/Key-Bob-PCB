@@ -5,11 +5,11 @@ Estimated shipping time: 1-3 weeks
 __TOOLS/ Materials Needed__
 -------------------
 1) Soldering iron
-2) solder __or__ rosin core
+2) Solder __or__ rosin core
 3) flux (if using regular solder)
 4) fume extractor (good practice for health)
 5) Small length of wire (~1ft)
-6) cutter/ wire stripper
+6) Cutter/ wire stripper
 7) Arduino IDE coding software
 8) USB A to USB C connector (connects ESP32 to PC)
 9) Laptop __or__ PC needed for uploading code
