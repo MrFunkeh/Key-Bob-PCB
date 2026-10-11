@@ -4,6 +4,8 @@ DFPlayer Document information, https://www.manualslib.com/manual/1731781/Dfrobot
 Rotry encoder 20mm wiring, https://github.com/jjsch-dev/rotary-encoder
 0.96 Inch OLED module wiring and code examples, https://pcbsync.com/ssd1306-oled-arduino/
 MPU6050 wiring, https://github.com/kumarjitray/ESP32_MPU6050
+ESP-NOW repository examples, https://github.com/espressif/esp-now
+ESP-NOW learn the code, https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/api-reference/network/esp_now.html
 ,
 Video/gif/image, Links
 File converter to code website for OLED display, https://www.oledanimationmaker.com/
