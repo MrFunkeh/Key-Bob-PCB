@@ -29,7 +29,7 @@ Link to Kicad(free): https://www.kicad.org/
 <img width="951" height="697" alt="image" src="https://github.com/user-attachments/assets/6c4993d5-a555-4e35-8134-987e7078a849" />
 
 
-#4) __Code__ once you have the esp32
+#4) __Code__   --once you have the esp32--
   1) Open arduino ide, or visual studio code with platformIO installed
   2) __if you don't have arduino ide,__ download here and select your OS system: https://www.arduino.cc/en/software/
   3) Download the code from Code.zip file.
@@ -41,9 +41,10 @@ Link to Kicad(free): https://www.kicad.org/
   9) Open the main code and file where it says input MAC address, somewhere near the top.
   10) flash the code to your ESP32
 
-     If you're curious how the ESP now function works: https://www.youtube.com/watch?v=qxwXwNS3Avw
+  If you're curious how the ESP now function works: https://www.youtube.com/watch?v=qxwXwNS3Avw
      
-     If you want a more in depth how to code with ESP now: https://www.youtube.com/watch?v=bEKjCDDUPaU&t=1354s
+  If you want a more in depth how to code with ESP now: https://www.youtube.com/watch?v=bEKjCDDUPaU&t=1354s
+-------------------------------------------------------------------------------------------------------------
 
   #5) __Solder__
     1) Overview the provided schematic above.
