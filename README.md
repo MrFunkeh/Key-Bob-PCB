@@ -10,8 +10,14 @@ This project was inspired by the tomagotchi and the STARBIE, I wanted to make so
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
+Why I built it
+----------------
+
+I built this for the week one of Hack Clucb Half Life Event.
+
 Features
 ----------
+
 - Multipule characters
 - Dance in sync with another Key Bob
 - Simple single color OLED display
@@ -19,3 +25,8 @@ Features
 - Gyro to detect movement
 - Battery Powerd
 - USB C charging
+
+  Project Status
+  ---------------
+  
+Work In Progress
