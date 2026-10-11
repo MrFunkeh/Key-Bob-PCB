@@ -6,15 +6,15 @@ __TOOLS/ Materials Needed__
 -------------------
 1) Soldering iron
 2) Solder __or__ rosin core
-3) flux (if using regular solder)
-4) fume extractor (good practice for health)
+3) Flux (if using regular solder)
+4) Fume extractor (good practice for health)
 5) Small length of wire (~1ft)
 6) Cutter/ wire stripper
 7) Arduino IDE coding software
 8) USB A to USB C connector (connects ESP32 to PC)
 9) Laptop __or__ PC needed for uploading code
 
-   if you __don't__ have any of these please borrow them, __or__ buy them from a supplier like AliExpress or Amazon.
+   If you __don't__ have any of these please borrow them, __or__ buy them from a supplier like AliExpress or Amazon.
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ __TOOLS/ Materials Needed__
   1) You will find the link in BOM.csv that brings you to the JLCPCB website where you will order the PCB.
   2) Download the PCB Production.zip file in my Key Bob PCB file..
   3) Go back to JLCPCB and import the zip file into where it says (Add gerber file).
-  4) set the PCB thickness to 1.2mm.
+  4) Set the PCB thickness to 1.2mm.
   5) Feel free to select any PCB color.
   6) Add it to your cart and select the type of shipping you want, then buy.
 
@@ -49,8 +49,8 @@ Link to Kicad(free): https://www.kicad.org/
 
 #4) Code   - once you have the esp32 -
 ----------------------------------------
-1) Open arduino ide, or visual studio code with platformIO installed
-2) __if you don't have arduino ide,__ download here and select your OS system: https://www.arduino.cc/en/software/
+1) Open arduino ide software, or visual studio code with platformIO installed
+2) __If you don't have arduino ide,__ download here and select your OS system: https://www.arduino.cc/en/software/
 3) Download the code from Code.zip file.
 4) Extract the file by right clicking the file.
 5) Import the Get MAC Address code first to obtain the MAC address of your ESP32.
@@ -59,7 +59,7 @@ Link to Kicad(free): https://www.kicad.org/
 8) Write down the MAC address somewhere, you need it for the main code.
 9) Open the main code file.
 10) Write your MAC address in the labled code once, somewhere near the top.
-11) flash the code to your ESP32.
+11) Flash the code to your ESP32.
 
     video on how to flash, __skip to 2:50__ : https://www.youtube.com/watch?v=V9I9koQ0AeA&t=230s
 
@@ -86,8 +86,9 @@ Link to Kicad(free): https://www.kicad.org/
 
 #6) Micro SD Card
 -------------------
-1) Format the Micro SD card to FAT32 on your laptop or PC.
+1) Format the Micro SD card to FAT32 on your laptop or PC. (You need a micro SD card to usb-A adapter)
 2) Download the file named Music from my repository
-3) transfer the mp3 files to the SD card
+3) Transfer the mp3 files to the SD card
+4) Insert the SD card into the DFPlayer (there is only one way it goes in, don't force it)
 
-   if you don't know how, watch this video: https://www.youtube.com/watch?v=MYjFO_QGdrY
+   If you don't know how, watch this video: https://www.youtube.com/watch?v=MYjFO_QGdrY
