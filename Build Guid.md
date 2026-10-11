@@ -78,4 +78,4 @@ Link to Kicad(free): https://www.kicad.org/
   5) Put the LED in the specified location on the schematic, and put the short leg (negative/ cathode) in the square hole.
   6) To solder on the ESP32 you can have someone hold it, or pre-tin one pad then apply heat while positioning it.
 
-     If you don't know how to solder, watch this: https://www.youtube.com/watch?v=Qps9woUGkvI
+     __If you don't know how to solder,__ watch this: https://www.youtube.com/watch?v=Qps9woUGkvI
