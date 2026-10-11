@@ -1,12 +1,18 @@
 __This is a guid on how to build your own Key Bob__
+Estimated build time: 3-5 hours
+Estimated shipping time: 2-4 weeks
 
 __TOOLS/ Materials Needed__
 -------------------
 1) Soldering iron
 2) solder
 3) flux
-4) Small length of wire (~1ft)
-5) cutter/ wire stripper
+4) fume extractor (good practice for health)
+5) Small length of wire (~1ft)
+6) cutter/ wire stripper
+7) Arduino IDE coding software
+8) USB A to USB C connector (connects ESP32 to PC)
+9) Laptop __or__ PC needed for uploading code
 
    if you __don't__ have any of these please borrow them, __or__ buy them from a supplier like AliExpress or Amazon.
 
