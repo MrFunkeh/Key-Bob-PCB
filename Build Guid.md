@@ -87,5 +87,7 @@ Link to Kicad(free): https://www.kicad.org/
 #6) Micro SD Card
 -------------------
 1) Format the Micro SD card to FAT32 on your laptop or PC.
+2) Download the file named Music from my repository
+3) transfer the mp3 files to the SD card
 
    if you don't know how, watch this video: https://www.youtube.com/watch?v=MYjFO_QGdrY
