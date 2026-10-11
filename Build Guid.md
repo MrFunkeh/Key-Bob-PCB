@@ -29,14 +29,25 @@ Link to Kicad(free): https://www.kicad.org/
 <img width="951" height="697" alt="image" src="https://github.com/user-attachments/assets/6c4993d5-a555-4e35-8134-987e7078a849" />
 
 
-#4) __Code__
+#4) __Code__ once you have the esp32
   1) Open arduino ide, or visual studio code with platformIO installed
   2) __if you don't have arduino ide,__ download here and select your OS system: https://www.arduino.cc/en/software/
   3) Download the code from Code.zip file.
   4) Extract the file by right clicking the file.
-  5) Import the extracted file to your software.
+  5) Import the Get MAC Address code first to obtain the MAC address of your ESP32.
+  6) Make sure you have these libraries installed: Adafruit BusIO, Adafruit GFX Library, Adafruit SSD 1306
+  7) Flash the code to your ESP32, make sure it's plugged in and the right serial port is selected.
+  8) Write down the MAC address somewhere, you need it for the main code.
+  9) Open the main code and file where it says input MAC address, somewhere near the top.
+  10) flash the code to your ESP32
 
      If you're curious how the ESP now function works: https://www.youtube.com/watch?v=qxwXwNS3Avw
      
      If you want a more in depth how to code with ESP now: https://www.youtube.com/watch?v=bEKjCDDUPaU&t=1354s
+
+  #5) __Solder__
+    1) Overview the provided schematic above.
+    2) Make sure when placing the ESP32 you have the USB-C face where the silkscreen on the board shows USB-C in a box.
+    3) Double check polarity of components before soldering all the pins.
+    4) To solder on the ESP32 you can have someone hold it, or pre-tin one pad then apply heat while positioning it.
      
