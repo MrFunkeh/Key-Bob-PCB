@@ -21,10 +21,13 @@ This is a guid on how to build your own Key Bob
 #3) __PCB Schematic__
 
 This is the wiring diagram of the PCB, this will be handy for when you solder everything together.
+
 You can accses this schematic and the PCB through the Key Bob PCB folder and insert the file into Kicad(free software)
+
 Link to Kicad(free): https://www.kicad.org/
 
 <img width="951" height="697" alt="image" src="https://github.com/user-attachments/assets/6c4993d5-a555-4e35-8134-987e7078a849" />
+
 
 #4) __Code__
   1) Open arduino ide, or visual studio code with platformIO installed
