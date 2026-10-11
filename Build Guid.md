@@ -8,7 +8,7 @@ __TOOLS/ Materials Needed__
 4) Small length of wire (~1ft)
 5) cutter/ wire stripper
 
-   if you __don't__ have any of these please borrow or buy them from a supplier like AliExpress or Amazon.
+   if you __don't__ have any of these please borrow them, __or__ buy them from a supplier like AliExpress or Amazon.
 
 -------------------------------------------------------------------------------------------------------------
 
