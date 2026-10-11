@@ -5,8 +5,8 @@ Estimated shipping time: 2-4 weeks
 __TOOLS/ Materials Needed__
 -------------------
 1) Soldering iron
-2) solder
-3) flux
+2) solder __or__ rosin core
+3) flux (if using regular solder)
 4) fume extractor (good practice for health)
 5) Small length of wire (~1ft)
 6) cutter/ wire stripper
@@ -72,8 +72,9 @@ Link to Kicad(free): https://www.kicad.org/
   #5) Solder
   ------------------
   1) Overview the provided schematic above.
-  2) Make sure when placing the ESP32 you have the USB-C face where the silkscreen on the board shows USB-C in a box.
-  3) Double check polarity of components before soldering all the pins. (only the resistor has no polarity)
+  2) __If__ you're using flux, apply a very very thin layer on the parts to allow the solder to flow better.
+  3) Make sure when placing the ESP32 you have the USB-C face where the silkscreen on the board shows USB-C in a box.
+  4) Double check polarity of components before soldering all the pins. (only the resistor has no polarity)
   5) Put the LED in the specified location on the schematic, and put the short leg (negative/ cathode) in the square hole.
   6) To solder on the ESP32 you can have someone hold it, or pre-tin one pad then apply heat while positioning it.
      
