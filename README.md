@@ -15,12 +15,24 @@ Why I built it
 
 I built this for the week one of Hack Clucb Half Life Event.
 
+I wanted a fun complex build that was new.
+
 Features
 ----------
 - Simple single color OLED display
 - One button and rotation of an encoder/ knob input
 - Battery Powerd
 - USB C charging
+
+  What I learned
+  ----------------
+  - C++ coding
+  - Kicad software
+  - Documenting
+  - Creating BOM
+  - Time management
+
+----------------------------------------------------------------------------------------------------------------------------------------------
 
   Project Status
   ---------------
