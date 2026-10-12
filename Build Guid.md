@@ -87,7 +87,7 @@ Link to Kicad(free): https://www.kicad.org/
 #6) Micro SD Card
 -------------------
 1) Format the Micro SD card to FAT32 on your laptop or PC. (You need a micro SD card to usb-A adapter)
-2) Download the file named Music from my repository
+2) Download the file named mp3 from my repository
 3) Transfer the mp3 files to the SD card
 4) Insert the SD card into the DFPlayer (there is only one way it goes in, don't force it)
 
