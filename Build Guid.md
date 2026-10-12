@@ -83,6 +83,8 @@ Link to Kicad(free): https://www.kicad.org/
 
 -------------------------------------------------------------------------------------------------------------
 
+# Work In Progress
+
 #6) Micro SD Card
 -------------------
 1) Format the Micro SD card to FAT32 on your laptop or PC. (you need a micro SD card to usb-A adapter)
