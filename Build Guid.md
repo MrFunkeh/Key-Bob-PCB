@@ -13,6 +13,7 @@ __TOOLS/ Materials Needed__
 7) Arduino IDE coding software
 8) USB A to USB C connector (connects ESP32 to PC)
 9) Laptop __or__ PC needed for uploading code
+10) Micro SD Card to USB-A (for uploading files)
 
    If you __don't__ have any of these please borrow them, __or__ buy them from a supplier like AliExpress or Amazon.
 
@@ -86,9 +87,9 @@ Link to Kicad(free): https://www.kicad.org/
 
 #6) Micro SD Card
 -------------------
-1) Format the Micro SD card to FAT32 on your laptop or PC. (You need a micro SD card to usb-A adapter)
+1) Format the Micro SD card to FAT32 on your laptop or PC. (you need a micro SD card to usb-A adapter)
 2) Download the file named mp3 from my repository
 3) Transfer the mp3 files to the SD card
-4) Insert the SD card into the DFPlayer (there is only one way it goes in, don't force it)
+4) Insert the SD card into the DFPlayer. (there is only one way it goes in, don't force it)
 
    If you don't know how, watch this video: https://www.youtube.com/watch?v=MYjFO_QGdrY
